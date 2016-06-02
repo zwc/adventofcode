@@ -1,0 +1,17 @@
+{
+  "name": "santa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "santa2-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highland": "^2.8.1",
+    "lodash": "^4.13.1",
+    "md5": "^2.1.0"
+  }
+}
